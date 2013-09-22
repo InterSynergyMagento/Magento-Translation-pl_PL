@@ -1,0 +1,14 @@
+{
+    "name": "InterSynergy/Magento-Translation-pl_PL",
+    "type": "magento-module",
+    "license":"OSL-3.0",
+    "description":"Unofficial Polish translation files for Magento Community Edition.",
+    "authors":[
+        {
+            "name":"Szymon Kapturkiewicz",
+            "email":"sk@intersynergy.pl"
+        }
+    ],
+    "require": {
+    }
+}
